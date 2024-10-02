@@ -1,0 +1,49 @@
+{
+    "background": {
+      "color": "#F0F0F0"
+    },
+    "text": {
+      "heading": {
+        "color": "#333333",
+        "fontFamily": "Roboto, sans-serif",
+        "fontStyle": "normal"
+      },
+      "paragraph": {
+        "color": "#666666",
+        "fontFamily": "Arial, sans-serif",
+        "fontStyle": "normal"
+      },
+      "subText": {
+        "color": "#999999",
+        "fontFamily": "Verdana, sans-serif",
+        "fontStyle": "italic"
+      }
+    },
+    "button": {
+      "primary": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#007BFF",
+        "borderColor": "#007BFF",
+        "hoverColor": "#FFFFFF",
+        "hoverBorderColor": "#0069D9",
+        "hoverBackgroundColor": "#0069D9",
+        "disabledColor": "#999999",
+        "disabledBackgroundColor": "#F0F0F0",
+        "disabledBorderColor": "#CCCCCC"
+      },
+      "secondary": {
+        "color": "#333333",
+        "backgroundColor": "#F0F0F0",
+        "borderColor": "#CCCCCC",
+        "hoverColor": "#333333",
+        "hoverBorderColor": "#BDBDBD",
+        "hoverBackgroundColor": "#E0E0E0",
+        "disabledColor": "#999999",
+        "disabledBackgroundColor": "#F0F0F0",
+        "disabledBorderColor": "#CCCCCC"
+      }
+    },
+    "components": {
+      "cornerRadius": 4
+    }
+  }
