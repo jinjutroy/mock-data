@@ -8,17 +8,20 @@
               "heading": {
                 "color": "#333333",
                 "fontFamily": "Roboto, sans-serif",
-                "fontStyle": "normal"
+                "fontStyle": "normal",
+                "fontUrl": "https://example.com/fonts/roboto.woff2"
               },
               "paragraph": {
                 "color": "#666666",
                 "fontFamily": "Arial, sans-serif",
-                "fontStyle": "normal"
+                "fontStyle": "normal",
+                "fontUrl": "https://example.com/fonts/arial.woff2"
               },
               "subText": {
                 "color": "#999999",
                 "fontFamily": "Verdana, sans-serif",
-                "fontStyle": "italic"
+                "fontStyle": "italic",
+                "fontUrl": "https://example.com/fonts/verdana.woff2"
               }
             },
             "button": {
