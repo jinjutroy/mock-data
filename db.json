@@ -1,56 +1,69 @@
 {
     "theme": [
-        {
-            "background": {
-              "color": "#F0F0F0"
-            },
-            "text": {
-              "heading": {
-                "color": "#333333",
-                "fontFamily": "'Roboto', serif",
-                "fontStyle": "normal",
-                "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-              },
-              "paragraph": {
-                "color": "#666666",
-                "fontFamily": "'Poppins', serif",
-                "fontStyle": "normal",
-                "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-              },
-              "subText": {
-                "color": "#999999",
-                "fontFamily": "'Playfair Display', serif",
-                "fontStyle": "italic",
-                "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
-              }
-            },
-            "button": {
-              "primary": {
-                "color": "#FFFFFF",
-                "backgroundColor": "#007BFF",
-                "borderColor": "#007BFF",
-                "hoverColor": "#FFFFFF",
-                "hoverBorderColor": "#0069D9",
-                "hoverBackgroundColor": "#0069D9",
-                "disabledColor": "#999999",
-                "disabledBackgroundColor": "#F0F0F0",
-                "disabledBorderColor": "#CCCCCC"
-              },
-              "secondary": {
-                "color": "#333333",
-                "backgroundColor": "#F0F0F0",
-                "borderColor": "#CCCCCC",
-                "hoverColor": "#333333",
-                "hoverBorderColor": "#BDBDBD",
-                "hoverBackgroundColor": "#E0E0E0",
-                "disabledColor": "#999999",
-                "disabledBackgroundColor": "#F0F0F0",
-                "disabledBorderColor": "#CCCCCC"
-              }
-            },
-            "components": {
-              "cornerRadius": 4
-            }
+      {
+        "theme": {
+          "color": {
+            "primary": "#007bff",
+            "secondary": "#6c757d"
+          },
+          "background": {
+            "color": "#f8f9fa"
           }
+        },
+        "button": {
+          "primary": {
+            "color": "#ffffff",
+            "borderColor": "#000000",
+            "backgroundColor": "#007bff",
+            "borderRadius": 0,
+            "hoverColor": "#ffffff",
+            "hoverBorderColor": "#0056b2",
+            "hoverBackgroundColor": "#0069d9",
+            "disabledColor": "#6c757d",
+            "disabledBackgroundColor": "#e9ecef",
+            "disabledBorderColor": "#ced4da"
+          },
+          "secondary": {
+            "color": "#000000",
+            "borderColor": "#6c757d",
+            "backgroundColor": "#e9ecef",
+            "borderRadius": 0,
+            "hoverColor": "#000000",
+            "hoverBorderColor": "#adb5bd",
+            "hoverBackgroundColor": "#d3d3d3",
+            "disabledColor": "#6c757d",
+            "disabledBackgroundColor": "#e9ecef",
+            "disabledBorderColor": "#ced4da"
+          }
+        },
+        "components": {
+          "cornerRadius": 5
+        },
+        "text": {
+          "heading": {
+            "color": "#333333",
+            "fontFamily": "'Roboto', serif",
+            "fontStyle": "normal",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          },
+          "paragraph": {
+            "color": "#666666",
+            "fontFamily": "'Poppins', serif",
+            "fontStyle": "normal",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+          },
+          "subText": {
+            "color": "#999999",
+            "fontFamily": "'Playfair Display', serif",
+            "fontStyle": "italic",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+          }
+        },
+        "image": {
+          "logo": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png",
+          "favicon": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png",
+          "featureImage": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png"
+        }
+      }
     ] 
 }
