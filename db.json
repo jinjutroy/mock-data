@@ -4,7 +4,9 @@
         "theme": {
           "color": {
             "primary": "#007bff",
-            "secondary": "#6c757d"
+            "secondary": "#6c757d",
+            "primaryOpacity": 1,
+            "secondaryOpacity": 1
           },
           "background": {
             "color": "#f8f9fa"
@@ -12,28 +14,43 @@
         },
         "button": {
           "primary": {
-            "color": "#ffffff",
-            "borderColor": "#000000",
-            "backgroundColor": "#007bff",
-            "borderRadius": 0,
-            "hoverColor": "#ffffff",
-            "hoverBorderColor": "#0056b2",
-            "hoverBackgroundColor": "#0069d9",
-            "disabledColor": "#6c757d",
-            "disabledBackgroundColor": "#e9ecef",
-            "disabledBorderColor": "#ced4da"
+            "default": {
+              "color": "#007bff",
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#007bff",
+              "borderRadius": 8
+            },
+            "hover": {
+              "color": "#007bff",
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#007bff",
+              "borderRadius": 8
+            },
+            "disabled": {
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#6c757d",
+              "colorOpacity": 0.65,
+              "borderRadius": 8,
+              "color": "#007bff"
+            }
           },
           "secondary": {
-            "color": "#000000",
-            "borderColor": "#6c757d",
-            "backgroundColor": "#e9ecef",
-            "borderRadius": 0,
-            "hoverColor": "#000000",
-            "hoverBorderColor": "#adb5bd",
-            "hoverBackgroundColor": "#d3d3d3",
-            "disabledColor": "#6c757d",
-            "disabledBackgroundColor": "#e9ecef",
-            "disabledBorderColor": "#ced4da"
+            "default": {
+              "color": "#007bff",
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#007bff"
+            },
+            "hover": {
+              "color": "#007bff",
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#007bff"
+            },
+            "disabled": {
+              "backgroundColor": "#f8f9fa",
+              "borderColor": "#6c757d",
+              "colorOpacity": 0.65,
+              "color": "#007bff"
+            }
           }
         },
         "components": {
@@ -60,9 +77,9 @@
           }
         },
         "image": {
-          "logo": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png",
-          "favicon": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png",
-          "featureImage": "https://static.wixstatic.com/media/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/5a9531_6884d8665c4249f09efd666eaec47d20%7Emv2.png"
+          "logo": "https://example.com/logo.png",
+          "favicon": "https://example.com/favicon.ico",
+          "featureImage": "https://example.com/feature.jpg"
         }
       }
     ] 
