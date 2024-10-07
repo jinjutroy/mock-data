@@ -16,18 +16,18 @@
           "primary": {
             "default": {
               "color": "#007bff",
-              "backgroundColor": "#f8f9fa",
+              "backgroundColor": "#F16261",
               "borderColor": "#007bff",
               "borderRadius": 8
             },
             "hover": {
               "color": "#007bff",
-              "backgroundColor": "#f8f9fa",
+              "backgroundColor": "#F16261",
               "borderColor": "#007bff",
               "borderRadius": 8
             },
             "disabled": {
-              "backgroundColor": "#f8f9fa",
+              "backgroundColor": "#F16261",
               "borderColor": "#6c757d",
               "colorOpacity": 0.65,
               "borderRadius": 8,
