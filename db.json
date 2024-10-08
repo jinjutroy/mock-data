@@ -2,55 +2,16 @@
     "theme": [
       {
         "theme": {
-          "color": {
+          "bgColorButton": {
             "primary": "#007bff",
             "secondary": "#6c757d",
             "primaryOpacity": 1,
             "secondaryOpacity": 1
           },
           "background": {
-            "color": "#f8f9fa"
-          }
-        },
-        "button": {
-          "primary": {
-            "default": {
-              "color": "#001322",
-              "backgroundColor": "#F16261",
-              "borderColor": "#001322",
-              "borderRadius": 8
-            },
-            "hover": {
-              "color": "#001322",
-              "backgroundColor": "#EF9E9D",
-              "borderColor": "#001322",
-              "borderRadius": 8
-            },
-            "disabled": {
-              "backgroundColor": "#F16261",
-              "borderColor": "#6c757d",
-              "colorOpacity": 0.65,
-              "borderRadius": 8,
-              "color": "#001322"
-            }
-          },
-          "secondary": {
-            "default": {
-              "color": "#007bff",
-              "backgroundColor": "#f8f9fa",
-              "borderColor": "#007bff"
-            },
-            "hover": {
-              "color": "#007bff",
-              "backgroundColor": "#f8f9fa",
-              "borderColor": "#007bff"
-            },
-            "disabled": {
-              "backgroundColor": "#f8f9fa",
-              "borderColor": "#6c757d",
-              "colorOpacity": 0.65,
-              "color": "#007bff"
-            }
+            "color": "#f8f9fa",
+            "image": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmcjAEkD3ESNAwnSWbLUJrNDQZAjoA9SK9tkBiRHe6F6EQ",
+            "colorOpacity": 0.5
           }
         },
         "components": {
@@ -58,29 +19,30 @@
         },
         "text": {
           "heading": {
-            "color": "#fff",
+            "color": "#333333",
             "fontFamily": "'Roboto', serif",
             "fontStyle": "normal",
             "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
           },
           "paragraph": {
-            "color": "#fff",
+            "color": "#666666",
             "fontFamily": "'Poppins', serif",
             "fontStyle": "normal",
             "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
           },
           "subText": {
-            "color": "#fff",
+            "color": "#999999",
             "fontFamily": "'Playfair Display', serif",
             "fontStyle": "italic",
             "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
           }
         },
         "image": {
-          "logo": "https://example.com/logo.png",
-          "favicon": "https://example.com/favicon.ico",
-          "featureImage": "https://example.com/feature.jpg"
-        }
+          "logo": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
+          "favicon": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
+          "featureImage": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmSm4phv5ADjLa25XfLEsFYjLd6V2ZeVP5Fp82EYQ4NsFR"
+        },
+        "modeTheme": "dark"
       }
     ] 
 }
