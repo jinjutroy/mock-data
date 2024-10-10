@@ -4,7 +4,7 @@
         "theme": {
           "bgColorButton": {
             "primary": "#F16261",
-            "secondary": "#fff",
+            "secondary": "#fdfdfd",
             "primaryOpacity": 1,
             "secondaryOpacity": 1
           },
