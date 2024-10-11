@@ -47,13 +47,13 @@
       {
         "theme": {
           "bgColorButton": {
-            "primary": "#F16261",
-            "secondary": "#fdfdfd1f",
+            "primary": "#FDFDFD1F",
+            "secondary": "#001264",
             "primaryOpacity": 1,
             "secondaryOpacity": 1
           },
           "background": {
-            "color": "#f8f9fa",
+            "color": "#14141A",
             "image": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmcjAEkD3ESNAwnSWbLUJrNDQZAjoA9SK9tkBiRHe6F6EQ",
             "colorOpacity": 0.5
           }
