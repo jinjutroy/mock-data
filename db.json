@@ -4,9 +4,9 @@
         "theme": {
           "bgColorButton": {
             "primary": "#001264",
-            "secondary": "#050505",
+            "secondary": "#F04923",
             "primaryOpacity": 1,
-            "secondaryOpacity": 0.06
+            "secondaryOpacity": 1
           },
           "background": {
             "color": "#ffffff",
