@@ -3,49 +3,6 @@
       {
         "theme": {
           "bgColorButton": {
-            "primary": "#001264",
-            "secondary": "#F04923",
-            "primaryOpacity": 1,
-            "secondaryOpacity": 1
-          },
-          "background": {
-            "color": "#ffffff",
-            "colorOpacity": 1
-          }
-        },
-        "components": {
-          "cornerRadius": 12
-        },
-        "text": {
-          "heading": {
-            "color": "#050505",
-            "fontFamily": "'Roboto', serif",
-            "fontStyle": "normal",
-            "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-          },
-          "paragraph": {
-            "color": "#050505",
-            "fontFamily": "'Poppins', serif",
-            "fontStyle": "normal",
-            "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-          },
-          "subText": {
-            "color": "#05050533",
-            "fontFamily": "'Playfair Display', serif",
-            "fontStyle": "italic",
-            "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
-          }
-        },
-        "image": {
-          "logo": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
-          "favicon": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
-          "featureImage": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmSm4phv5ADjLa25XfLEsFYjLd6V2ZeVP5Fp82EYQ4NsFR"
-        },
-        "modeTheme": "light"
-      },
-      {
-        "theme": {
-          "bgColorButton": {
             "primary": "#FDFDFD1F",
             "secondary": "#001264",
             "primaryOpacity": 1,
@@ -86,6 +43,49 @@
           "featureImage": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmSm4phv5ADjLa25XfLEsFYjLd6V2ZeVP5Fp82EYQ4NsFR"
         },
         "modeTheme": "dark"
+      },
+      {
+        "theme": {
+          "bgColorButton": {
+            "primary": "#001264",
+            "secondary": "#F04923",
+            "primaryOpacity": 1,
+            "secondaryOpacity": 1
+          },
+          "background": {
+            "color": "#ffffff",
+            "colorOpacity": 1
+          }
+        },
+        "components": {
+          "cornerRadius": 12
+        },
+        "text": {
+          "heading": {
+            "color": "#050505",
+            "fontFamily": "'Roboto', serif",
+            "fontStyle": "normal",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          },
+          "paragraph": {
+            "color": "#050505",
+            "fontFamily": "'Poppins', serif",
+            "fontStyle": "normal",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+          },
+          "subText": {
+            "color": "#05050533",
+            "fontFamily": "'Playfair Display', serif",
+            "fontStyle": "italic",
+            "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+          }
+        },
+        "image": {
+          "logo": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
+          "favicon": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmQ5ugw8XJgo2kAJ9xWZDvDFn269nksnJnzWpzeFcrbTEJ",
+          "featureImage": "https://fuchsia-immense-sheep-161.mypinata.cloud/ipfs/QmSm4phv5ADjLa25XfLEsFYjLd6V2ZeVP5Fp82EYQ4NsFR"
+        },
+        "modeTheme": "light"
       }
     ] 
 }
