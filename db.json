@@ -3,10 +3,10 @@
       {
         "theme": {
           "bgColorButton": {
-            "primary": "#FDFDFD1F",
-            "secondary": "#001264",
-            "primaryOpacity": 1,
-            "secondaryOpacity": 1
+            "primary": "#001264",
+    "secondary": "#F04923",
+    "primaryOpacity": 1,
+    "secondaryOpacity": 1
           },
           "background": {
             "color": "#14141A",
